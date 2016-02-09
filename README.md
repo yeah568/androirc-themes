@@ -10,4 +10,5 @@ Choose the theme in the AndroIRC settings at Settings -> Settings -> Theme.
 
 ### Monokai
 Based on the [HexChat Monokai theme](https://hexchat.github.io/themes.html).
+
 ![Monokai screenshot](/Monokai/Monokai_screenshot.png?raw=true "Monokai screenshot")
