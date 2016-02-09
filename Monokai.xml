@@ -1,0 +1,68 @@
+<!--
+A theme based on the Monokai colour scheme.
+Heavily inspired (aka as much of a copy as possible) of the 
+Monokai theme for Hexchat.
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <name>Monokai</name>
+  <author>James Liu</author>
+  <email>james@jamesliu.ca</email>
+  <version>0.0.1</version>
+  <parent_theme>dark</parent_theme>
+  <colors>
+    <mirc>
+      <color id="0">#ffffff</color>
+      <color id="1">#49483e</color>
+      <color id="2">#66d9ef</color>
+      <color id="3">#6bc72b</color>
+      <color id="4">#f92672</color>
+      <color id="5">#77543e</color>
+      <color id="6">#bc25ff</color>
+      <color id="7">#fd971f</color>
+      <color id="8">#e6db74</color>
+      <color id="9">#a6e22e</color>
+      <color id="10">#427255</color>
+      <color id="11">#66ef66</color>
+      <color id="12">#66d9ef</color>
+      <color id="13">#ae81ff</color>
+      <color id="14">#75715e</color>
+      <color id="15">#cfcfc2</color>
+    </mirc>
+    <androirc>
+      <color id="text_light">#CFCFC2</color>
+      <color id="error">#ab383b</color>
+      <color id="information">#2a4162</color>
+      <color id="misc">#6e6885</color>
+      <color id="highlight">#a6e22e</color>
+      <color id="join">#FD971F</color>
+      <color id="part">#E6DB74</color>
+      <color id="away">#4f7495</color>
+      <color id="quit">#E6DB74</color>
+      <color id="mode">#638d69</color>
+      <color id="nick">#b49457</color>
+      <color id="invite">#b49457</color>
+      <color id="topic">#2a4162</color>
+      <color id="whois">#2a4162</color>
+      <color id="ping">#ab383b</color>
+      <color id="ctcp">#ab383b</color>
+      <color id="notice">#783431</color>
+      <color id="raw">#ab383b</color>
+      <color id="connexion">#FD971F</color>
+      <color id="disconnexion">#E6DB74</color>
+      <color id="stars">#808080</color>
+      <color id="state_hl">#A6E22E</color>
+      <color id="state_newmessage">#66D9EF</color>
+      <color id="state_systemmessage">#FD971F</color>
+      <color id="title">#4f7495</color>
+      <color id="operator">#783431</color>
+      <color id="half_operator">#638d69</color>
+      <color id="voice">#2a4162</color>
+    </androirc>
+  </colors>
+  <patterns>
+    <pattern name="message"><color color="#66D9EF">%nick%</color> %message%</pattern>
+    <pattern name="action"><bold><color color="#66D9EF">* %nick%</color></bold> %message%
+    </pattern>
+  </patterns>
+</theme>
