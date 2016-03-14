@@ -21,7 +21,7 @@ Based on the [HexChat Monokai theme](https://hexchat.github.io/themes.html).
 
 - __text_light__: Main text colour.
 - __error__: 
-- __information__: 
+- __information__: Informational messages? Includes "Foo has said your nick on #Bar".
 - __misc__: 
 - __highlight__: 
 - __join__: User join message. (Foo has joined #Bar)
