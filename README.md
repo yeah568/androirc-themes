@@ -69,4 +69,4 @@ The following placeholders can be used:
 - ```%nick%``` - User's name.
 - ```%message%``` - The actual text.
 
-In addition, ```<bold></bold>```, ```<backgroundcolor color="#c01025"></color>``` and ```<color color="#c01025"></color>``` to style text in the patterns.
+In addition, ```<bold></bold>```, ```<backgroundcolor color="#c01025"></color>``` and ```<color color="#c01025"></color>``` can be used to style text in the patterns.
