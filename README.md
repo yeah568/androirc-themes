@@ -53,12 +53,12 @@ Based on the [HexChat Monokai theme](https://hexchat.github.io/themes.html).
 Currently, only standard and ACTION messages can be styled.
 
 For standard messages, use:
-```
+```xml
 <pattern name="message"></pattern>
 ```
 
 For ACTION (/me) messages, use
-```
+```xml
 <pattern name="action"></pattern>
 ```
 
