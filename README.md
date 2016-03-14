@@ -47,3 +47,26 @@ Based on the [HexChat Monokai theme](https://hexchat.github.io/themes.html).
 - __operator__: Admin and op colour in userlist.
 - __half_operator__: Voiced user colour in userlist. __NOTE:__ Yes, voiced user. It appears that hop and voice colours are switched.
 - __voice__: Half-op colour in userlist. __NOTE:__ Yes, half-op. It appears that hop and voice colours are switched.
+
+### Message Formatting
+
+Currently, only standard and ACTION messages can be styled.
+
+For standard messages, use:
+```
+<pattern name="message"></pattern>
+```
+
+For ACTION (/me) messages, use
+```
+<pattern name="action"></pattern>
+```
+
+Place the pattern inside the tag.
+
+The following placeholders can be used:
+- ```%rank%``` - Symbol for the rank of the user. 
+- ```%nick%``` - User's name.
+- ```%message%``` - The actual text.
+
+In addition, ```<bold></bold>```, ```<backgroundcolor color="#c01025"></color>``` and ```<color color="#c01025"></color>``` to style text in the patterns.
