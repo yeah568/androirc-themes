@@ -23,15 +23,15 @@ Based on the [HexChat Monokai theme](https://hexchat.github.io/themes.html).
 - __error__: 
 - __information__: Informational messages? Includes "Foo has said your nick on #Bar".
 - __misc__: 
-- __highlight__: 
+- __highlight__: Text colour for messages containing a highlight word.
 - __join__: User join message. (Foo has joined #Bar)
 - __part__: User part message. 
-- __away__: 
+- __away__: /away - Away message. (You are now away, You're no longer away)
 - __quit__: 
 - __mode__: 
 - __nick__: /nick - Nick change message. (Foo now known as Bar)
 - __invite__: 
-- __topic__: 
+- __topic__: /topic - Topic/MOTD colour.
 - __whois__: /whois - Whois message.
 - __ping__: 
 - __ctcp__: 
