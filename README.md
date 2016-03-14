@@ -1,6 +1,7 @@
 # androirc-themes
 A collection of themes for AndroIRC.
 
+Pull requests for fixes and new themes highly appreciated.
 
 ## Installation
 Place ```{theme}.xml``` in ```/sdcard/AndroIRC/themes```.

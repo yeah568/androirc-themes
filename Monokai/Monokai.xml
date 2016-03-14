@@ -1,8 +1,3 @@
-<!--
-A theme based on the Monokai colour scheme.
-Heavily inspired (aka as much of a copy as possible) of the 
-Monokai theme for Hexchat.
--->
 <?xml version="1.0" encoding="UTF-8"?>
 <theme>
   <name>Monokai</name>
@@ -55,9 +50,9 @@ Monokai theme for Hexchat.
       <color id="state_newmessage">#66D9EF</color>
       <color id="state_systemmessage">#FD971F</color>
       <color id="title">#4f7495</color>
-      <color id="operator">#783431</color>
-      <color id="half_operator">#638d69</color>
-      <color id="voice">#2a4162</color>
+      <color id="operator">#5CB537</color>
+      <color id="half_operator">#27B7A3</color>
+      <color id="voice">#458ADA</color>
     </androirc>
   </colors>
   <patterns>
