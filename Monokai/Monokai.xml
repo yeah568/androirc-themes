@@ -51,8 +51,8 @@
       <color id="state_systemmessage">#FD971F</color>
       <color id="title">#4f7495</color>
       <color id="operator">#5CB537</color>
-      <color id="half_operator">#27B7A3</color>
-      <color id="voice">#458ADA</color>
+      <color id="half_operator">#458ADA</color>
+      <color id="voice">#27B7A3</color>
     </androirc>
   </colors>
   <patterns>
