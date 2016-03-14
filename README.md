@@ -24,15 +24,15 @@ Based on the [HexChat Monokai theme](https://hexchat.github.io/themes.html).
 - __information__: 
 - __misc__: 
 - __highlight__: 
-- __join__: 
-- __part__: 
+- __join__: User join message. (Foo has joined #Bar)
+- __part__: User part message. 
 - __away__: 
 - __quit__: 
 - __mode__: 
-- __nick__: 
+- __nick__: /nick - Nick change message. (Foo now known as Bar)
 - __invite__: 
 - __topic__: 
-- __whois__: 
+- __whois__: /whois - Whois message.
 - __ping__: 
 - __ctcp__: 
 - __notice__: 
