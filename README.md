@@ -29,7 +29,7 @@ Based on the [HexChat Monokai theme](https://hexchat.github.io/themes.html).
 - __away__: /away - Away message. (You are now away, You're no longer away)
 - __quit__: 
 - __mode__: 
-- __nick__: /nick - Nick change message. (Foo now known as Bar)
+- __nick__: /nick - Nick change message. (Foo is now known as Bar)
 - __invite__: 
 - __topic__: /topic - Topic/MOTD colour.
 - __whois__: /whois - Whois message.
