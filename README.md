@@ -48,6 +48,9 @@ Based on the [HexChat Monokai theme](https://hexchat.github.io/themes.html).
 - __half_operator__: Voiced user colour in userlist. __NOTE:__ Yes, voiced user. It appears that hop and voice colours are switched.
 - __voice__: Half-op colour in userlist. __NOTE:__ Yes, half-op. It appears that hop and voice colours are switched.
 
+### Parent Themes
+```<parent_theme>``` can only be set to ```dark``` or ```light```. This changes the background colour to gray or white, respectively.
+
 ### Message Formatting
 
 Currently, only standard and ACTION messages can be styled.
